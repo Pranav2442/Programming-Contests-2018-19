@@ -23,3 +23,5 @@ Given N integers in the range defined on P, find the number (after each no. is p
 <br />
 The solution in C language is provided.
 <br />
+
+P.S: Fast I/O was required for clearing the last testcase.
